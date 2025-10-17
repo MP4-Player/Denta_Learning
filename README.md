@@ -1,2 +1,1 @@
-# Denta_Learning
-Denta Learning-yfexyfz cfnmz
+Dev2 (ML/Агенты)
