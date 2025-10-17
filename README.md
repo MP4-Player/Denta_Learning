@@ -1,2 +1,3 @@
-# Denta_Learning
-Denta Learning-yfexyfz cfnmz
+· Основная ветка для всей команды
+· Сюда мержим все фичи
+· Перед релизом мержим в main
